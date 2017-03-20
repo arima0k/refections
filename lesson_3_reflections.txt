@@ -3,3 +3,12 @@ when i will no use my own PC
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When i do not have access to a pc with git or just make it easier
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork, copy a repository from one user to another
+clone, save a repository on your computer
+Branches is another version of the master repository
+
+fork, when i want to edit and save my own version of a repository fron another user
+clone, whe i want to save and edit a repository
+branch, when i want to experiment with the master repository or make another version
