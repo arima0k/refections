@@ -12,3 +12,6 @@ Branches is another version of the master repository
 fork, when i want to edit and save my own version of a repository fron another user
 clone, whe i want to save and edit a repository
 branch, when i want to experiment with the master repository or make another version
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+you can edit without conflict
