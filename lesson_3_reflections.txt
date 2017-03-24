@@ -15,3 +15,6 @@ branch, when i want to experiment with the master repository or make another ver
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you can edit without conflict
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+i'd collaborate, maybe Changing the code files by a cloud, using git or github would be easier.
